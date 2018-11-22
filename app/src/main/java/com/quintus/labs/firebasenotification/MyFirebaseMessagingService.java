@@ -48,6 +48,9 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
             String message = data.getString("message");
             String imageUrl = data.getString("image");
 
+            Log.d("Title", title);
+            Log.d("Message", message);
+            Log.d("Image", imageUrl);
             //creating MyNotificationManager object
             MyNotificationManager mNotificationManager = new MyNotificationManager(getApplicationContext());
 
@@ -58,6 +61,9 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
             intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP | Intent.FLAG_ACTIVITY_CLEAR_TOP);
             pendingIntent = PendingIntent.getActivity(this, 0, intent,
                     PendingIntent.FLAG_ONE_SHOT);
+
+            NotificationHelper notificationHelper = new NotificationHelper(getApplicationContext());
+            notificationHelper.createNotification(title, message);
 
             //if there is no image
             if (imageUrl.equals("null")) {

@@ -1,39 +1,35 @@
 {
   "project_info": {
-    "project_number": "45246713883",
-    "firebase_url": "https://fir-notification-31503.firebaseio.com",
-    "project_id": "fir-notification-31503",
-    "storage_bucket": "fir-notification-31503.appspot.com"
+    "project_number": "399365481411",
+    "firebase_url": "https://fir-demo-4f433.firebaseio.com",
+    "project_id": "fir-demo-4f433",
+    "storage_bucket": "fir-demo-4f433.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:45246713883:android:0ea5c314c3f4c581",
+        "mobilesdk_app_id": "1:399365481411:android:0ea5c314c3f4c581",
         "android_client_info": {
           "package_name": "com.quintus.labs.firebasenotification"
         }
       },
       "oauth_client": [
         {
-          "client_id": "45246713883-dc5651aroumln0bh1cj53ud3c174il9t.apps.googleusercontent.com",
+          "client_id": "399365481411-nr7obssc2es2ep78t4dl6un2qf0ttoqi.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.quintus.labs.firebasenotification",
-            "certificate_hash": "d1193709aafa3c0c51ed8c3961bf325c36cc3244"
+            "certificate_hash": "8fdd9e635b1303bdb581dde1c3a82c9e10191daf"
           }
         },
         {
-          "client_id": "45246713883-9men38v6f2sm3f3uc7tolro4irr7eiqb.apps.googleusercontent.com",
-          "client_type": 3
-        },
-        {
-          "client_id": "45246713883-9men38v6f2sm3f3uc7tolro4irr7eiqb.apps.googleusercontent.com",
+          "client_id": "399365481411-kl0ip52la5elm902svq7ovu4ncrh56f4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBQe2_-epG50UIVE-9xfFBKgZdTxPZb054"
+          "current_key": "AIzaSyBpSJzln7cGry0pjBIrKvDM00l516VfYmI"
         }
       ],
       "services": {
@@ -44,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "45246713883-9men38v6f2sm3f3uc7tolro4irr7eiqb.apps.googleusercontent.com",
+              "client_id": "399365481411-kl0ip52la5elm902svq7ovu4ncrh56f4.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

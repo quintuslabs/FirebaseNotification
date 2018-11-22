@@ -23,7 +23,7 @@ class DbOperation
     public function registerDevice($name,$email,$token){
         if(!$this->isEmailExist($email)){
             $stmt = $this->con->prepare("INSERT INTO devices (name,email, token) VALUES (?,?,?) ");
-            $stmt->bind_param("ss",$email,$token);
+            $stmt->bind_param("sss",$name,$email,$token);
             if($stmt->execute())
                 return 0; //return 0 means success
             return 1; //return 1 means failure
