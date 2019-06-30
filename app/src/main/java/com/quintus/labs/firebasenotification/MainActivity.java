@@ -20,7 +20,12 @@ import org.json.JSONObject;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * FirebaseNotification
+ * https://github.com/quintuslabs/FirebaseNotification
+ * Created on 18-Feb-2019.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     //defining views

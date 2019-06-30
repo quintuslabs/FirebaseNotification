@@ -12,7 +12,10 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * Created by Belal on 03/11/16.
+ * FirebaseNotification
+ * https://github.com/quintuslabs/FirebaseNotification
+ * Created on 18-Nov-2018.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
  */
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {

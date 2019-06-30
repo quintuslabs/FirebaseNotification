@@ -9,6 +9,12 @@ import android.graphics.Color;
 import android.provider.Settings;
 import android.support.v4.app.NotificationCompat;
 
+/**
+ * FirebaseNotification
+ * https://github.com/quintuslabs/FirebaseNotification
+ * Created on 18-Nov-2018.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ */
 public class NotificationHelper {
 
     public static final String NOTIFICATION_CHANNEL_ID = "10001";

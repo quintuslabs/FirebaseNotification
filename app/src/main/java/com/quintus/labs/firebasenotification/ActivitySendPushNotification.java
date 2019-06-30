@@ -27,6 +27,13 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * FirebaseNotification
+ * https://github.com/quintuslabs/FirebaseNotification
+ * Created on 18-Nov-2018.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ */
+
 public class ActivitySendPushNotification extends AppCompatActivity implements RadioGroup.OnCheckedChangeListener, View.OnClickListener {
 
     private Button buttonSendPush;

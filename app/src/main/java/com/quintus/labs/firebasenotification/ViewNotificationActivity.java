@@ -5,6 +5,12 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
+/**
+ * FirebaseNotification
+ * https://github.com/quintuslabs/FirebaseNotification
+ * Created on 18-Nov-2018.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ */
 public class ViewNotificationActivity extends AppCompatActivity {
     Intent intent;
 

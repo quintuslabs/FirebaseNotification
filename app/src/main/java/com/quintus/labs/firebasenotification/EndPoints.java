@@ -1,7 +1,10 @@
 package com.quintus.labs.firebasenotification;
 
 /**
- * Created by Belal on 04/11/16.
+ * FirebaseNotification
+ * https://github.com/quintuslabs/FirebaseNotification
+ * Created on 18-Nov-2018.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
  */
 
 public class EndPoints {

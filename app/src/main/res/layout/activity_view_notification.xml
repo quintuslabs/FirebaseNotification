@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+* FirebaseNotification
+* https://github.com/quintuslabs/FirebaseNotification
+* Created on 18-Nov-2018.
+* Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
