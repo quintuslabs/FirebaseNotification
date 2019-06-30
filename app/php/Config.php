@@ -1,4 +1,11 @@
-<?php 
+<?php
+
+/**
+ * FirebaseNotification
+ * https://github.com/quintuslabs/FirebaseNotification
+ * Created on 18-Nov-2018.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ */
 	define('DB_USERNAME','root');
 	define('DB_PASSWORD','password');
 	define('DB_NAME','fcm');

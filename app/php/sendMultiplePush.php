@@ -1,4 +1,10 @@
-<?php 
+<?php
+/**
+ * FirebaseNotification
+ * https://github.com/quintuslabs/FirebaseNotification
+ * Created on 18-Nov-2018.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ */
 //importing required files 
 require_once 'DbOperation.php';
 require_once 'Firebase.php';
